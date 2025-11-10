@@ -11,3 +11,5 @@ AreaCalculator.java<img width="1362" height="441" alt="image" src="https://githu
 Student.java<img width="1356" height="572" alt="image" src="https://github.com/user-attachments/assets/e2e8de09-6f5c-40c6-9aa3-65a29873b1ca" />
 IntegerStack.java<img width="1325" height="491" alt="image" src="https://github.com/user-attachments/assets/637864e1-acf8-4b37-9971-2ee5b24d17f0" />
 StudentStack.java<img width="1541" height="737" alt="image" src="https://github.com/user-attachments/assets/970cf07f-6b14-431e-b552-144a10360f9c" />
+StackProgram.java<img width="1697" height="605" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/d06a63f9-ee64-47f9-920f-b31ba1087f75" />
+StackOperations.java<img width="1696" height="612" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/350dd230-d6a9-4ced-949f-2c8ca1c47aa6" />
